@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Roboto Mono', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Roboto Mono', monospace,
+    monospace;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
